@@ -56,9 +56,6 @@ public class ChatServerGUI extends AnonyFrame implements AnonyFace {
     private String hashedRootPassword;
     private String hashedServerPassword;
 
-    /**
-     * Create the frame.
-     */
     public ChatServerGUI() {
     	super("ChatServer");
         initializeComponents();
