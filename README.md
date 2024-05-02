@@ -1,11 +1,11 @@
-![Your Icon](icon.ico)
+![Your Icon](repo/icon.ico)
 # AnonyChat
 AnonyChat is a graphical user interface (GUI) based chat application that enables users to connect and communicate in a secure and user-friendly environment. Designed with a focus on privacy chatting, it provides essential functionalities for both regular users and server root, ensuring private and safe communication.
 
 🔐 **Important**: Read the "ChatServer&&Client with SSL/TLS Encryption" section below to understand how Anonychat ensures privacy through SSL/TLS encryption.
 
 ## 📊 AnonyChat RSD
-![UML Diagram](RSD.svg)
+![UML Diagram](repo/RSD.png)
 
 ## 🚀 How to Run
 
