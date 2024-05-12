@@ -1,1 +1,0 @@
-# Editable config.properties in the JAR App
