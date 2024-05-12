@@ -1,0 +1,9 @@
+GDBA (Global Database Application)  
+Application that interacts with a database designed for worldwide access. It's built to handle broad, universal tasks and manage data across all users and locations. Think of it as the go-to component for anything that needs a global touch in our app.
+
+LDBA (Local Database Application)
+This is the localized counterpart tailored to meet specific, regional, or individual user needs. The LDBA focuses on data operations that are important locally—whether that’s for a single user or a specific group. It's all about providing customized and locally relevant functionalities.
+
+To make sure your LDBA is runnable, don't forget to update your 'config.properties' file with the correct database connection settings. This includes your specific database URL, username, and password.
+
+Thanks.
