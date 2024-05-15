@@ -4,7 +4,7 @@ AnonyChat is a graphical user interface (GUI) based chat application that enable
 
 🔐 **Important**: Read the "ChatServer&&Client with SSL/TLS Encryption" section below to understand how Anonychat ensures privacy through SSL/TLS encryption.
 
-## 📊 AnonyChat RSD
+## Classes hierarchy
 ![Classes hierarchy](repo/CH.svg)
 
 ## 📊 AnonyChat RSD
