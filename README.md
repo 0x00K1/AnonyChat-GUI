@@ -7,7 +7,7 @@ AnonyChat is a graphical user interface (GUI) based chat application that enable
 ## 📚 Classes hierarchy
 ![Classes hierarchy](repo/CH.svg)
 
-📊 AnonyChat Database Schema
+## 📊 AnonyChat Database Schema
 ![RS Diagram](repo/RSD.png)
 
 ## 🚀 How to Run
